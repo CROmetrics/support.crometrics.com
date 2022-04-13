@@ -1,6 +1,3 @@
----
-title: "Dynamic CSS Classes & CSS-in-JS"
----
 # Dynamic CSS Classes & CSS-in-JS
 
 Summary & Action
