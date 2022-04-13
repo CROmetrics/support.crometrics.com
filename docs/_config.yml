@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+
+title: 'Cro Metrics Support Pages'
+author:
+  name:  'Cro Metrics'
+  
+safe: true
+lsi: false
